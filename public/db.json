@@ -8,7 +8,7 @@
       "size": "M",
       "color": "grey",
       "quantity": 1,
-      "image": "/images/product-usa-tshirt.png"
+      "image": "/product-usa-tshirt.png"
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "size": "S",
       "color": "brown",
       "quantity": 3,
-      "image": "/images/product-glow-swimsuit.png"
+      "image": "/product-glow-swimsuit.png"
     },
     {
       "id": "3",
@@ -28,7 +28,7 @@
       "size": "L",
       "color": "coral",
       "quantity": 5,
-      "image": "/images/product-sweet-shot.png"
+      "image": "/product-sweet-shot.png"
     },
     {
       "id": "4",
@@ -38,7 +38,7 @@
       "size": "M",
       "color": "beige",
       "quantity": 2,
-      "image": "/images/product-classic-coat.png"
+      "image": "/product-usa-tshirt.png"
     },
     {
       "id": "5",
@@ -48,7 +48,7 @@
       "size": "Oversize",
       "color": "milk",
       "quantity": 7,
-      "image": "/images/product-cozy-cardigan.png"
+      "image": "/product-cozy-cardigan.png"
     },
     {
       "id": "6",
@@ -58,7 +58,7 @@
       "size": "XL",
       "color": "black",
       "quantity": 12,
-      "image": "/images/product-oversize-black.png"
+      "image": "/product-oversize-black.png"
     },
     {
       "id": "7",
@@ -68,7 +68,7 @@
       "size": "S",
       "color": "camel",
       "quantity": 1,
-      "image": "/images/product-luxe-coat.png"
+      "image": "/product-luxe-coat.png"
     },
     {
       "id": "8",
@@ -78,7 +78,7 @@
       "size": "M",
       "color": "grey-melange",
       "quantity": 4,
-      "image": "/images/product-soft-cardigan.png"
+      "image": "/product-soft-cardigan.png"
     },
     {
       "id": "9",
@@ -88,7 +88,7 @@
       "size": "M",
       "color": "mint",
       "quantity": 8,
-      "image": "/images/product-chill-sweatshirt.png"
+      "image": "/product-chill-sweatshirt.png"
     },
     {
       "id": "10",
@@ -98,7 +98,7 @@
       "size": "L",
       "color": "dark-blue",
       "quantity": 3,
-      "image": "/images/product-double-breasted-coat.png"
+      "image": "/product-double-breasted-coat.png"
     },
     {
       "id": "11",
@@ -108,7 +108,7 @@
       "size": "S",
       "color": "burgundy",
       "quantity": 6,
-      "image": "/images/product-vintage-cardigan.png"
+      "image": "/product-vintage-cardigan.png"
     },
     {
       "id": "12",
@@ -118,7 +118,7 @@
       "size": "XS",
       "color": "white",
       "quantity": 15,
-      "image": "/images/product-minimal-sweatshirt.png"
+      "image": "/product-minimal-sweatshirt.png"
     },
     {
       "id": "13",
@@ -148,7 +148,7 @@
       "size": "L",
       "color": "navy",
       "quantity": 9,
-      "image": "/images/product-retro-sweatshirt.png"
+      "image": "/product-usa-tshirt.png"
     }
   ]
 }
