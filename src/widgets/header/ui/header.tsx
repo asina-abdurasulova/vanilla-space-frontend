@@ -120,12 +120,12 @@ export function Header(): JSX.Element {
               </Link>
             </li>
             <li className="navigation__item">
-              <Link to="/about" className="navigation__link text-[15px] font-bold text-black hover:text-[#6E9C9F] transition-colors">
+              <Link to="/brand" className="navigation__link text-[15px] font-bold text-black hover:text-[#6E9C9F] transition-colors">
                 О бренде
               </Link>
             </li>
             <li className="navigation__item">
-              <Link to="/contacts" className="navigation__link text-[15px] font-bold text-black hover:text-[#6E9C9F] transition-colors">
+              <Link to="/contact" className="navigation__link text-[15px] font-bold text-black hover:text-[#6E9C9F] transition-colors">
                 Контакты
               </Link>
             </li>
